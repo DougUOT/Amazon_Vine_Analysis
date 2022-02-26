@@ -3,7 +3,9 @@ Analyzed 50 datasets of Amazon reviews written by members of the paid Amazon Vin
 
 ## Overview of Project
 
-In this project, we'll dig into what the industry means by big data. We'll explore the big data ecosystem including Hadoop, the four V's, MapReduce, Google Colaboratory and Spark. We'll also cover natural language processing (NLP). We'll close with an introduction to cloud services. Cloud services let us store large amounts of data at remote locations rather than locally, on top of many other services. This allows for more scalability and performance. We'll use the most popular cloud service available: Amazon Web Services (AWS). 
+The client $ellby is about to release a large catalog of products on a leading retail website. They want to know how the reviews of their products compare to the reviews of similar products sold by their competitors. They're also interested in enrolling in a program that gives out free products to select reviewers but they want to know if it's worth the cost. There are thousands of reviews and they're in words not numbers so you'll need to translate them in order to analyze them.
+
+In this project, we'll dig into what the industry means by big data. We'll explore the big data ecosystem including Hadoop, the four V's (Volume, Velocity, Variety and Veracity), MapReduce, Google Colaboratory and Spark. We'll also cover natural language processing (NLP). We'll close with an introduction to cloud services. Cloud services let us store large amounts of data at remote locations rather than locally, on top of many other services. This allows for more scalability and performance. We'll use the most popular cloud service available: Amazon Web Services (AWS). 
 
 This assignment is related to the Bootcamp Data Analytics from the University of Toronto. It comprises the goals below for this module: 
 
@@ -105,9 +107,10 @@ Follow below the goals for this module:
 ### SUMMARY
 
 1) Due to the huge difference in number of reviews between a Vine member and a non-member, we can conclude that there is no strong relationship between the numbers. A more in-depth and detailed analysis would be necessary to obtain a better conclusion.
-2) According to the results, just 0.2% (94 members) of the Vine member (Paid) provides a review for videogame products.
-3) Still, according to the results, just 0.3% (48 members) of the Vine member (Unpaid) provides a 5-star review for videogame products, it is represent 51.06%.
-4) More than 50% of Vine member provided a 5-stars review for videogames products
+2) On the other hand, due to the very low number of reviews made by Vine members (94 members), only 48 members gave a 5-star review. The company $ellby may distribute free products to selected reviewers as it is worth the cost.
+3) According to the results, just 0.2% (94 members) of the Vine member (Paid) provides a review for videogame products.
+4) Still, according to the results, just 0.3% (48 members) of the Vine member (Unpaid) provides a 5-star review for videogame products, it is represent 51.06%.
+5) More than 50% of Vine member provided a 5-stars review for videogames products
  
 
 ![](https://github.com/DougUOT/Amazon_Vine_Analysis/blob/main/Resources/Images/Vine%20Analysis%20Overview.PNG)
