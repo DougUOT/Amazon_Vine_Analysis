@@ -115,7 +115,7 @@ Follow below the goals for this module:
 
 ![](https://github.com/DougUOT/Amazon_Vine_Analysis/blob/main/Resources/Images/Vine%20Analysis%20Overview.PNG)
 
-###  ADDITIONAL ANALYSIS
+###  RECOMMENDED ADDITIONAL ANALYSIS
 
 1) Develop a new analysis, separated by video game categories, selecting keywords from the main video game consoles, such as PS3, PS4, XBOX, and Nintendo.
 2) Include three to five stars from reviews for additional analysis 
