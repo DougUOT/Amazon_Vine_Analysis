@@ -108,9 +108,9 @@ Follow below the goals for this module:
 
 1) Due to the huge difference in number of reviews between a Vine member and a non-member, we can conclude that there is no strong relationship between the numbers. A more in-depth and detailed analysis would be necessary to obtain a better conclusion.
 2) On the other hand, due to the very low number of reviews made by Vine members (94 members), only 48 members gave a 5-star review. The company $ellby may distribute free products to selected reviewers as it is worth the cost.
-3) According to the results, just 0.2% (94 members) of the Vine member (Paid) provides a review for videogame products.
-4) Still, according to the results, just 0.3% (48 members) of the Vine member (Unpaid) provides a 5-star review for videogame products, it is represent 51.06%.
-5) More than 50% of Vine member provided a 5-stars review for videogames products
+3) According to the results, just 0.2% (94 members) of the Vine member (Paid) provides a review for videogame products, while 40471 non-members provided reviews; this represents 99.8% of the total reviews analyzed.
+4) Still, according to the results, just 0.3% (48 members) of the Vine member (Unpaid) provided a 5-star review for videogame products, which represents 51.06%, for other hand, non-members provided 15663 reviews with 5-star, representing 99.7% of the total number of 5-star reviews.
+5) More than 50% of Vine members provided a 5-stars review for video games products, representing 48 members. The non-members provided 38.70% of 5-star reviews, representing 15663 non-members.
  
 
 ![](https://github.com/DougUOT/Amazon_Vine_Analysis/blob/main/Resources/Images/Vine%20Analysis%20Overview.PNG)
