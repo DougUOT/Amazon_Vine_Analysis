@@ -24,7 +24,7 @@ Follow below the goals for this module:
 
   * From the following Amazon Review datasets (Links to an external site.), pick a dataset that you would like to analyze.
   
-  We selected the videogame Data set (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
+  We selected the videogame Dataset (https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Video_Games_v1_00.tsv.gz)
   
   * Install packages for libraries that we want to use. Running with cloud notebooks with PySpark.
 ![](https://github.com/DougUOT/Amazon_Vine_Analysis/blob/main/Resources/Images/Code%20Google%20Colab1.PNG)
