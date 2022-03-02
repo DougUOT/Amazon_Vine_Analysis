@@ -7,9 +7,8 @@ The client $ellby is about to release a large catalog of products on a leading r
 
 In this project, we'll dig into what the industry means by big data. We'll explore the big data ecosystem including Hadoop, the four V's (Volume, Velocity, Variety and Veracity), MapReduce, Google Colaboratory and Spark. We'll also cover natural language processing (NLP). We'll close with an introduction to cloud services. Cloud services let us store large amounts of data at remote locations rather than locally, on top of many other services. This allows for more scalability and performance. We'll use the most popular cloud service available: Amazon Web Services (AWS). 
 
-This assignment is related to the Bootcamp Data Analytics from the University of Toronto. It comprises the goals below for this module: 
 
-Follow below the goals for this module:
+Follow below the goals for this project:
 
 1) Objective 1: Perform ETL on Amazon Product Reviews
 2) Objective 2: Determine Bias of Vine Reviews
